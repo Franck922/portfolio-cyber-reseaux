@@ -1,2 +1,2 @@
 # portfolio-cyber-reseaux
-Portfolio technique – Systèmes, Réseaux &amp; Cybersécurité | Étudiant Bac+3
+Portfolio technique – Systèmes, Réseaux & Cybersécurité | Étudiant Bac+3
